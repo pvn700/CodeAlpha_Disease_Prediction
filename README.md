@@ -16,4 +16,4 @@ Heart Disease Dataset
 Around 90%
 
 ## Author
-Pavan Kumar Gaddam
+Pavan 
